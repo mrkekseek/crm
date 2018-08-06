@@ -1,3 +1,10 @@
+## This project is implemented on Laravel 5.4 + AngularJS
+
+It's task manager with limited access for clients.
+Admin access grants for clients add/edit/delete tasks.
+Each client (company) has dashboard with tasks (add/edit/delete), assigning to users.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
